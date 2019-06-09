@@ -15,10 +15,10 @@ class Header extends React.Component{
             <h1>
               Hey there * <br/>
               My name is Adekoyejo. <br/>
-              I am a <span className="lighter">fullstack</span> backend developer.
+              I am a javascript developer.
             </h1>
             <p className="description">
-            I am currently building applications as a fullstack developer at <a href="https://www.foodie.com.ng" target="blank">Foodie Nigeria</a>. I throughly enjoy working with nodejs and other backend technologies although I sometimes build frontend applications using HTML, CSS, Javascript.
+            I like to think of myself as having no special affinity to either the front end or the back end essentially because I love writing JavaScript. However, I am currently working as a front end developer at <a href="https://www.verifi.ng" target="_blank">VerifiNG</a>. Check out my github profile to see some of the work I have done.
             </p>
           </div>
         </div>
